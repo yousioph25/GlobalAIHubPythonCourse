@@ -1,0 +1,2 @@
+# GlobalAIHubPythonCourse
+homework and project
